@@ -276,6 +276,16 @@ Contributions, new zero-dollar services, and verified free-tier limits are welco
 
 ---
 
+## 🌟 Show Your Support — Star This Repo!
+
+If this matrix and architecture guide saved you from unexpected cloud bills or helped you deploy a project for $0.00:
+
+* ⭐ **Give this repository a star** — it directly supports free, barrier-free developer tools and helps fellow builders find it!
+* 🍴 **Fork it** — use it as your personal launchpad for hackathons and production deployments.
+* 📢 **Share it** — spread the word to student groups, indie hackers, or on LinkedIn & X (Twitter)!
+
+---
+
 ## 👨‍💻 Maintainer
 
 Maintained with ❤️ by **[Ganesh Yandigeri](https://github.com/Gana-Y)**
